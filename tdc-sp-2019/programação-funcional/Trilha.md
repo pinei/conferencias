@@ -90,6 +90,7 @@ bit.ly/tatiana-databricks
 ## RxJS Avançado: compondo interfaces visuais reativamente  
 
 * Por William Grasel @willgmbr slides.com Google Developers Expert
+guthub willgm /angular-simple-redux
 
 - Reactive Programming
 - Observable (é um monad)
@@ -101,9 +102,16 @@ bit.ly/tatiana-databricks
         - ReactiveX Operators
 - Nunca faça subscribe dentro de subscribe
 - Não esquece de fazer unsubscribe
-- 
+- EventSourcing (fawler)
+- CQRS (fawler)
+- VS Code na Web?
+- Redux vs CQRS ([ ] pesquisar)
 
 ## C# Funcional  
 
-* Por Antonio Maniero
+* Por Antonio Maniero @manieromvp Microsoft MVP about.me/maniero
+
+- Não se faz mais compiladores com as técnicas do livro do dragão
+- "Criar o nulo foi um erro" (Tony Rom...)
+    - Em funcional temos o Option ou Maybe (IsNone, IsSome)
 
